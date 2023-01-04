@@ -1001,6 +1001,7 @@ i[class="fa-solid fa-trophy"] {color: rgb(240, 219, 31);}
 }
 .footer .social-icons i {
     padding: 10px 15px;
+    color: white;
 }
 .footer .social-icons i[class="fa-brands fa-square-facebook"]:hover {color: rgb(15, 110, 139);}
 .footer .social-icons i[class="fa-brands fa-twitter"]:hover {color: rgb(12, 159, 204);}
